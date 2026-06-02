@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): Sabae____________________
+HOST   (the one with the secret):  Kenya____________________
+DATE:                              06/02/2026____________________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
 
 
 ------------------------------------------
