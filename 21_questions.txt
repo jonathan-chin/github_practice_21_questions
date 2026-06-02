@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): Sabae____________________
+HOST   (the one with the secret):  Kenya____________________
+DATE:                              06/02/2026____________________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
 
 
 ------------------------------------------
@@ -15,13 +15,13 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ ] No   Q: 
- 2. A: [ ] Yes  [ ] No   Q: 
- 3. A: [ ] Yes  [ ] No   Q: 
- 4. A: [ ] Yes  [ ] No   Q: 
- 5. A: [ ] Yes  [ ] No   Q: 
- 6. A: [ ] Yes  [ ] No   Q: 
- 7. A: [ ] Yes  [ ] No   Q: 
+ 1. A: [ ] Yes  [x ] No   Q: Is it s mammal?
+ 2. A: [ ] Yes  [x ] No   Q: Does it live in the ocean? 
+ 3. A: [ ] Yes  [x] No   Q: Does it have wings? 
+ 4. A: [ ] Yes  [x] No   Q: Does it have legs? 
+ 5. A: [x] Yes  [ ] No   Q: Does it have fangs? 
+ 6. A: [ ] Yes  [ ] No   Q: Can it be deadly to people or other animals? 
+ 7. A: [X ] Yes  [ ] No   Q: Is it a snake? 
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
@@ -41,8 +41,8 @@ Write your yes/no question on each line, then check the host's answer.
 ------------------------------------------
               FINAL GUESS
 ------------------------------------------
-My guess is: ______________________________________
+My guess is: ___SNAKE__________________________________
 
-RESULT:  [ ] Correct!   [ ] Incorrect
+RESULT:  [ ]X Correct!   [ ] Incorrect
 
-THE SECRET WAS (host reveals): ____________________________
+THE SECRET WAS (host reveals): ____Kenya________________________
