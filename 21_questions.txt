@@ -21,7 +21,7 @@ Write your yes/no question on each line, then check the host's answer.
  4. A: [ ] Yes  [x] No   Q: Does it have legs? 
  5. A: [x] Yes  [ ] No   Q: Does it have fangs? 
  6. A: [ ] Yes  [ ] No   Q: Can it be deadly to people or other animals? 
- 7. A: [ x] Yes  [ ] No   Q: Is it a snake? 
+ 7. A: [X ] Yes  [ ] No   Q: Is it a snake? 
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
@@ -41,8 +41,8 @@ Write your yes/no question on each line, then check the host's answer.
 ------------------------------------------
               FINAL GUESS
 ------------------------------------------
-My guess is: ______________________________________
+My guess is: ___SNAKE__________________________________
 
-RESULT:  [ ] Correct!   [ ] Incorrect
+RESULT:  [ ]X Correct!   [ ] Incorrect
 
-THE SECRET WAS (host reveals): ____________________________
+THE SECRET WAS (host reveals): ____Kenya________________________
