@@ -19,7 +19,7 @@ Write your yes/no question on each line, then check the host's answer.
  2. A: [ ] Yes  [x ] No   Q: Does it live in the ocean? 
  3. A: [ ] Yes  [x] No   Q: Does it have wings? 
  4. A: [ ] Yes  [x] No   Q: Does it have legs? 
- 5. A: [ ] Yes  [ ] No   Q: Does it have fangs? 
+ 5. A: [x] Yes  [ ] No   Q: Does it have fangs? 
  6. A: [ ] Yes  [ ] No   Q: 
  7. A: [ ] Yes  [ ] No   Q: 
  8. A: [ ] Yes  [ ] No   Q: 
